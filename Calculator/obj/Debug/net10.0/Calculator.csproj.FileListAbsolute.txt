@@ -1,0 +1,14 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\bin\Debug\net10.0\Calculator.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\bin\Debug\net10.0\Calculator.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\bin\Debug\net10.0\Calculator.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\bin\Debug\net10.0\Calculator.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\Calculator\obj\Debug\net10.0\ref\Calculator.dll

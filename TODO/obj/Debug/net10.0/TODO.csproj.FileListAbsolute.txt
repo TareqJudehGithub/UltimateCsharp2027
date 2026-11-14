@@ -1,0 +1,14 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\bin\Debug\net10.0\TODO.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\bin\Debug\net10.0\TODO.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\bin\Debug\net10.0\TODO.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\bin\Debug\net10.0\TODO.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\bin\Debug\net10.0\TODO.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\refint\TODO.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\TODO.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\TODO\obj\Debug\net10.0\ref\TODO.dll

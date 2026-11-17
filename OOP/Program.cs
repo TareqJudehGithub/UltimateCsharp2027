@@ -6,13 +6,13 @@ var Booking1 = new HotelBooking(
 System.Console.WriteLine(Booking1.GustName);
 
 var rectangle = new Rectangle(width: 5, height: 3);
+rectangle.Width = 5;
+rectangle.Height = 8;
 var calculator = new ShapeMeasurmentsCalculator();
 System.Console.WriteLine(
   calculator.CalculateRectangleCircumference(rectangle: rectangle));
 System.Console.WriteLine(calculator.CalculateRectangleArea(rectangle: rectangle));
 Console.WriteLine();
-
-
 
 // MedicalAppointment
 var johnSmith = new MedicalAppointment(

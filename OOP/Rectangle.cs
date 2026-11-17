@@ -5,8 +5,44 @@ namespace OOP;
 class Rectangle
 {
   // fields
-  public int _width;
-  public int _height;
+  private int _width;
+  private int _height;
+
+  // Properties
+  // Old school C# way
+  public int Width
+  {
+    // accessors (getters and setters)
+    get
+    {
+      return _width;
+    }
+    set
+    {
+      if (value > 0)
+      {
+        _width = value;
+      }
+    }
+  }
+
+  public int Height
+  {
+    // getter
+    get
+    {
+      return _height;
+    }
+
+    // setter
+    set
+    {
+      if (value > 0)
+      {
+        _height = value;
+      }
+    }
+  }
 
   // Constructor
   public Rectangle(int width, int height)
@@ -42,7 +78,7 @@ class ShapeMeasurmentsCalculator
 {
   public int CalculateRectangleCircumference(Rectangle rectangle)
   {
-    return (rectangle._width + rectangle._height) * 2;
+    return (rectangle.Width + rectangle.Height) * 2;
   }
 
   // public int CalculateRectangleArea(Rectangle rectangle)
@@ -52,7 +88,7 @@ class ShapeMeasurmentsCalculator
 
 
   // Expression bodied methods
-  public int CalculateRectangleArea(Rectangle rectangle) => rectangle._width * rectangle._height;
+  public int CalculateRectangleArea(Rectangle rectangle) => rectangle.Width * rectangle.Height;
 }
 
 

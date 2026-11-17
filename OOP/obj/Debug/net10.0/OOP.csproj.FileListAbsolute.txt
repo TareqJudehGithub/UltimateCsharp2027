@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\bin\Debug\net10.0\OOP.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\bin\Debug\net10.0\OOP.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\bin\Debug\net10.0\OOP.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\bin\Debug\net10.0\OOP.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\refint\OOP.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\OOP\obj\Debug\net10.0\ref\OOP.dll

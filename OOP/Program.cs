@@ -26,3 +26,10 @@ johnSmith.MoveByMonthsAndDays(2, 1);
 
 int age = 51;
 System.Console.WriteLine(nameof(age));
+
+// System.Console.WriteLine(calculatorStatic.Add(5, 5)); This will return an error. We cannot call a static method on an obj/instance of a class.
+System.Console.WriteLine(StaticClassMethod.Add(5, 5));
+System.Console.WriteLine(StaticClassMethod.Subtract(10, 3));
+System.Console.WriteLine(StaticClassMethod.Multiply(8, 4));
+System.Console.WriteLine(StaticClassMethod.Divide(10, 2));
+System.Console.WriteLine(StaticClassMethod.Number);

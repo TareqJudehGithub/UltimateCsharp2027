@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\bin\Debug\net10.0\DiceRoll.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\bin\Debug\net10.0\DiceRoll.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\bin\Debug\net10.0\DiceRoll.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\bin\Debug\net10.0\DiceRoll.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\bin\Debug\net10.0\DiceRoll.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\refint\DiceRoll.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\DiceRoll.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\DiceRoll\obj\Debug\net10.0\ref\DiceRoll.dll

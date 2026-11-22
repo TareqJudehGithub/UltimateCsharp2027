@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/tasks/">
+    <Project Path="tasks/DiceRoll/DiceRoll.csproj" />
+  </Folder>
   <Project Path="Calculator/Calculator.csproj" />
   <Project Path="OOP/OOP.csproj" />
   <Project Path="TODO/TODO.csproj" />

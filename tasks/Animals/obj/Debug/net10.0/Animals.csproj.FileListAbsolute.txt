@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\bin\Debug\net10.0\Animals.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\bin\Debug\net10.0\Animals.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\bin\Debug\net10.0\Animals.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\bin\Debug\net10.0\Animals.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\bin\Debug\net10.0\Animals.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\refint\Animals.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\Animals.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\Animals\obj\Debug\net10.0\ref\Animals.dll

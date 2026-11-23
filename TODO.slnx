@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/tasks/">
+    <Project Path="tasks/Animals/Animals.csproj" />
     <Project Path="tasks/DiceRoll/DiceRoll.csproj" />
   </Folder>
   <Project Path="Calculator/Calculator.csproj" />

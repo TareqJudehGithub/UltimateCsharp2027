@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj": {}
+    "e:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj": {}
   },
   "projects": {
-    "E:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj": {
+    "e:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj",
+        "projectUniqueName": "e:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj",
         "projectName": "DiceRoll",
-        "projectPath": "E:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj",
+        "projectPath": "e:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\DiceRoll.csproj",
         "packagesPath": "C:\\Users\\USER10\\.nuget\\packages\\",
-        "outputPath": "E:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\obj\\",
+        "outputPath": "e:\\WebDev\\ElegentCode\\UltimateCsharp2027\\tasks\\DiceRoll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

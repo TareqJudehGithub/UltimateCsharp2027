@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\bin\Debug\net10.0\ShapesTask.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\bin\Debug\net10.0\ShapesTask.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\bin\Debug\net10.0\ShapesTask.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\bin\Debug\net10.0\ShapesTask.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\bin\Debug\net10.0\ShapesTask.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\refint\ShapesTask.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ShapesTask.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\tasks\ShapesTask\obj\Debug\net10.0\ref\ShapesTask.dll

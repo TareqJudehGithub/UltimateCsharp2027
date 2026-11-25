@@ -1,9 +1,11 @@
 <Solution>
+  <Folder Name="/OOP/" />
   <Folder Name="/tasks/">
     <Project Path="tasks/Animals/Animals.csproj" />
     <Project Path="tasks/DiceRoll/DiceRoll.csproj" />
+    <Project Path="tasks/ShapesTask/ShapesTask.csproj" />
   </Folder>
   <Project Path="Calculator/Calculator.csproj" />
-  <Project Path="OOP/OOP.csproj" />
+  <Project Path="ExtensionMethods/ExtensionMethods.csproj" />
   <Project Path="TODO/TODO.csproj" />
 </Solution>

@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\bin\Debug\net10.0\ExtensionMethods.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\bin\Debug\net10.0\ExtensionMethods.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\bin\Debug\net10.0\ExtensionMethods.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\bin\Debug\net10.0\ExtensionMethods.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\bin\Debug\net10.0\ExtensionMethods.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\refint\ExtensionMethods.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ExtensionMethods.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\ExtensionMethods\obj\Debug\net10.0\ref\ExtensionMethods.dll

@@ -1,0 +1,15 @@
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\bin\Debug\net10.0\JSON.exe
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\bin\Debug\net10.0\JSON.deps.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\bin\Debug\net10.0\JSON.runtimeconfig.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\bin\Debug\net10.0\JSON.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\bin\Debug\net10.0\JSON.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.AssemblyInfoInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.AssemblyInfo.cs
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.csproj.CoreCompileInputs.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.sourcelink.json
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\refint\JSON.dll
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.pdb
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\JSON.genruntimeconfig.cache
+E:\WebDev\ElegentCode\UltimateCsharp2027\JSON\obj\Debug\net10.0\ref\JSON.dll

@@ -7,5 +7,7 @@
   </Folder>
   <Project Path="Calculator/Calculator.csproj" />
   <Project Path="ExtensionMethods/ExtensionMethods.csproj" />
+  <Project Path="Generic/Generic.csproj" />
+  <Project Path="JSON/JSON.csproj" />
   <Project Path="TODO/TODO.csproj" />
 </Solution>
